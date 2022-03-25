@@ -1,0 +1,7 @@
+AnalysisType: pack
+PackID: Russ.GreyNoise
+Description: Group of all Box detections
+PackDefinition:
+  IDs:
+    - greynoise_noise_advanced_integration_test_packtest
+DisplayName: GreyNoise
